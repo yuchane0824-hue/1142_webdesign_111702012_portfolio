@@ -84,7 +84,7 @@ export default function RootLayout({
 
             <Link href="/project">
               <div className="text-white p-[10px] mt-3 rounded-md flex items-center gap-1" style={{backgroundColor: '#737C75'}}>
-                <TbBrandYoutubeKids/>影音作品
+                <TbBrandYoutubeKids/>我的作品
               </div>
             </Link>
           </div>

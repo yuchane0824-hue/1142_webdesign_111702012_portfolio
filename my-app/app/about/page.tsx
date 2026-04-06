@@ -24,7 +24,7 @@ export default function About() {
 
       {/* 下半部 */}
       <div className="flex p-[20px]">
-        <Image src="/IMG_3654.JPG" alt="mypic" width={1980} height={1020}/>
+        <Image src="/IMG_3614.JPG" alt="mypic" width={1980} height={1020}/>
       </div>
     </div>
   );
