@@ -4,7 +4,7 @@ import Menu from "../component/menu"
 export default function Home() {
 
   return (
-    <div className="flex h-full justify-center">
+    <div className="flex min-h-screen justify-center">
       <Menu />
 
       <div className="w-full sm:block hidden" style={{backgroundColor: '#EFF0EA'}}>

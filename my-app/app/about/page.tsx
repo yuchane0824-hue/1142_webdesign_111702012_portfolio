@@ -14,7 +14,7 @@ export default function About() {
       </Link>
       
       {/* Menu */}
-      <div className="sm:block hidden">
+      <div className="sm:block hidden" style={{backgroundColor: '#EFF0EA'}}>
         <Menu />        
       </div>
 

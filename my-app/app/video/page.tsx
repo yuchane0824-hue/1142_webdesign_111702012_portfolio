@@ -13,7 +13,7 @@ export default function video() {
       </Link>
 
       {/* Menu */}
-      <div className="sm:block hidden">
+      <div className="sm:block hidden" style={{backgroundColor: '#EFF0EA'}}>
         <Menu />        
       </div>
 
